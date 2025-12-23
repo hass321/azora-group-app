@@ -1,7 +1,6 @@
 const FeaturesSection = () => {
     return (
         <>
-        <h2>FeaturesSection</h2>
         </>
     )
 }

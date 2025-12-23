@@ -1,7 +1,6 @@
 const HeroSection = () => {
     return (
         <>
-        <h2>HeroSection</h2>
         </>
     )
 }

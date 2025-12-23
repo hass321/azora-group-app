@@ -1,7 +1,6 @@
 const JourneySection = () => {
     return (
         <>
-        <h2>JourneySection</h2>
         </>
     )
 }

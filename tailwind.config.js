@@ -10,6 +10,7 @@ export default {
       colors: {
         brand: {
             primary: "#26262B",
+            secondary: "#202023ff",
             text: "#E5E5E5",
         },
       },
