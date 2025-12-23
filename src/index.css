@@ -1,0 +1,9 @@
+@config "../tailwind.config.js";
+@import "tailwindcss";
+@reference "tailwindcss/utilities";
+
+@layer components {
+  .back {
+    @apply bg-brand-primary;
+  }
+}
