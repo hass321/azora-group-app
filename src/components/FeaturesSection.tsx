@@ -1,7 +1,7 @@
 const FeaturesSection = () => {
-    return (
-        <>
-        </>
+    return (    
+    <section className="text-white py-24">
+    </section>
     )
 }
 

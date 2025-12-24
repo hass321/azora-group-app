@@ -5,6 +5,7 @@ import JourneySection from "../components/JourneySection";
 import TestimonialsSection from "../components/TestimonialSection";
 import SocialProofSection from "../components/SocialProofSection";
 import Footer from "../components/Footer";
+import Feature from "../components/Feature";
 
 const Index = () => {
   return (

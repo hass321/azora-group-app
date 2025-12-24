@@ -15,6 +15,9 @@ export default {
         },
       },
     },
+    fontFamily: {
+    avenir: ['Avenir Next', 'sans-serif'],
+    },
   },
 
   plugins: [],

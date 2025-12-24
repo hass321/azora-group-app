@@ -1,3 +1,39 @@
 @config "../tailwind.config.js";
 @import "tailwindcss";
 @reference "tailwindcss/utilities";
+
+.heading {
+  font-family: "Avenir Next", sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 67.84px;
+  letter-spacing: 1px;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  font-style: bold;
+}
+.sub-heading {
+    font-family: "Avenir Next", sans-serif;
+    color: white;
+    font-style: "normal";
+    font-size: 18px;
+    line-height: 32.04px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+}
+@font-face {
+  font-family: 'Avenir Next';
+  src: url('./assets/fonts/AvenirNextLTPro-Bold.otf') format('opentype');
+  font-style: bold;
+  font-display: swap;
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Avenir Next';
+  src: url('./assets/fonts/AvenirNextLTPro-Regular.otf') format('opentype');
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+}
